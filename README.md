@@ -9,4 +9,6 @@ while I was busy with creating [catoolin](https://github.com/eazy-english/catool
 **If you want to see it before getting the source code, here is the [demo](http://catore.tk/)**
 It's **OFFICIALLY** *Open Source project*
 
+## P.S: It was created with CATOOLIN v1.0.0
+
 ***With Respect Mr. CaT***
